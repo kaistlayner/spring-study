@@ -1,0 +1,1 @@
+watchexec -e java,kt -r ./gradlew bootRun
